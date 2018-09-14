@@ -16,4 +16,7 @@ Pod::Spec.new do |s|
 
     s.ios.vendored_frameworks = 'MySDK.framework'
 
+  s.dependency 'Alamofire'
+  s.dependency 'SwiftyJSON'
+
 end

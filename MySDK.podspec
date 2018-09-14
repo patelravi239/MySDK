@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     s.platform          = :ios
     s.source            = { :git => 'https://github.com/patelravi239/MySDK.git' }
 
-    s.source_files  = "MySDK", "MySDK/**/*.{h,m,swift}"
+    #s.source_files  = "MySDK", "MySDK/**/*.{h,m,swift}"
 
     s.ios.deployment_target = '10.0'
     #s.ios.vendored_frameworks = 'MySDK.framework'

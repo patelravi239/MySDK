@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     s.license           = 'MIT'
 
     s.platform          = :ios
-    s.source            = { :git => 'https://github.com/patelravi239/releases/tag/1.0.0/MySDK.zip' }
+    s.source            = { :git => 'https://github.com/patelravi239/MySDK/releases/latest/MySDK.zip' }
 
     s.ios.deployment_target = '10.0'
 

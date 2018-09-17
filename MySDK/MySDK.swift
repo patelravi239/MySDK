@@ -12,4 +12,8 @@ public class MySDK {
     public class func logToConsole(msg: String) {
         print(msg);
     }
+
+    public class func show(msg: String) {
+        print(msg);
+    }
 }

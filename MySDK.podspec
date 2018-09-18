@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 
- s.name              = 'MySDK'
+    s.name              = 'MySDK'
     s.version           = '1.0.3'
     s.summary           = 'Your framework summary'
     s.homepage          = 'https://guideme.io/'
